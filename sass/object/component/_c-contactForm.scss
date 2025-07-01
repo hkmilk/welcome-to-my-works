@@ -1,0 +1,9 @@
+.c-contactForm{
+    display: grid;
+    grid-template-rows: (6.2vh, 6.2vh, minmax(0, 1fr));
+}
+
+.c-contactForm__group{
+    padding-bottom: 2.0vh;
+    width: 70vw;
+}
