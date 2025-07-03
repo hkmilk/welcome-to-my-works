@@ -1053,35 +1053,4 @@ textarea::placeholder {
     padding-top: 3rem;
   }
 }
-.sticky {
-  border: 2px solid #ccc;
-  padding: 10px;
-  background: #f9f9f9;
-}
-
-.gallery-caption {
-  font-size: 0.9em;
-  text-align: center;
-  color: #666;
-}
-
-.bypostauthor {
-  font-weight: bold;
-}
-
-.alignright {
-  float: right;
-  margin-left: 1em;
-}
-
-.alignleft {
-  float: left;
-  margin-right: 1em;
-}
-
-.aligncenter {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 /*# sourceMappingURL=style.css.map */
